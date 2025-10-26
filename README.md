@@ -15,9 +15,9 @@ Make sure the following are installed on your system:
     ```shell
     poetry install
     ```
-    or install `customtkinter` using pip
+    or install the dependencies using pip
     ```
-    pip install customtkinter
+    pip install pandas scikit-learn whoosh sastrawi joblib colorama
     ```
 
 2. **Run the program**
