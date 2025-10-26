@@ -1,0 +1,8 @@
+{
+    "configs": {
+        "top_k": 5,
+        "lim": false,
+        "max_k": 100,
+        "tr_len": 150
+    }
+}
