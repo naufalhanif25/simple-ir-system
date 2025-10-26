@@ -1,0 +1,22 @@
+[project]
+name = "simple-irs"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "naufalhanif25",email = "naufal.hanif2525@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)",
+    "scikit-learn (>=1.7.2,<2.0.0)",
+    "whoosh (>=2.7.4,<3.0.0)",
+    "sastrawi (>=1.0.1,<2.0.0)",
+    "joblib (>=1.5.2,<2.0.0)",
+    "colorama (>=0.4.6,<0.5.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
